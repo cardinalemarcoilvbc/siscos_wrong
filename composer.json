@@ -1,0 +1,14 @@
+{
+  "require" : {
+    "silex/silex": "^2.0.4",
+    "monolog/monolog": "^1.22",
+    "twig/twig": "^2.0",
+    "symfony/twig-bridge": "^3",
+    "shuchkin/simplexlsx": "^0.9.11",
+    "ext-ftp": "*",
+    "league/flysystem-sftp":"*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}

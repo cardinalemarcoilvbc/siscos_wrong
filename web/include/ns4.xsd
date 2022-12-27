@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wmh="http://www.wmhelp.com/2003/eGenerator" elementFormDefault="qualified" xmlns:cbc="www.cbc.com" xmlns:cac="www.cac.com">
+  <xs:import namespace="www.cbc.com" schemaLocation="_cbc.xsd"/>
+  <xs:import namespace="www.cac.com" schemaLocation="_cac.xsd"/>
+  <xs:element name="StandardBusinessDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="StandardBusinessDocumentHeader"/>
+        <xs:element ref="Order"/>
+      </xs:sequence>
+      <xs:attribute name="xmlns" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StandardBusinessDocumentHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="HeaderVersion"/>
+        <xs:element ref="Sender"/>
+        <xs:element ref="Receiver"/>
+        <xs:element ref="DocumentIdentification"/>
+        <xs:element ref="BusinessScope"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HeaderVersion" type="xs:string"/>
+  <xs:element name="Sender">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Identifier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Identifier">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="Authority" type="xs:string" use="required"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Receiver">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Identifier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DocumentIdentification">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Standard"/>
+        <xs:element ref="TypeVersion"/>
+        <xs:element ref="InstanceIdentifier"/>
+        <xs:element ref="Type"/>
+        <xs:element ref="CreationDateAndTime"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Standard" type="xs:string"/>
+  <xs:element name="TypeVersion" type="xs:string"/>
+  <xs:element name="InstanceIdentifier" type="xs:string"/>
+  <xs:element name="Type" type="xs:string"/>
+  <xs:element name="CreationDateAndTime" type="xs:string"/>
+  <xs:element name="BusinessScope">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Scope" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Scope">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Type"/>
+        <xs:element ref="InstanceIdentifier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Order">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="cbc:CustomizationID"/>
+        <xs:element ref="cbc:ProfileID"/>
+        <xs:element ref="cbc:ID"/>
+        <xs:element ref="cbc:IssueDate"/>
+        <xs:element ref="cbc:OrderTypeCode"/>
+        <xs:element ref="cbc:DocumentCurrencyCode"/>
+        <xs:element ref="cbc:CustomerReference"/>
+        <xs:element ref="cbc:AccountingCost"/>
+        <xs:element ref="cac:ValidityPeriod"/>
+        <xs:element ref="cac:OriginatorDocumentReference"/>
+        <xs:element ref="cac:Contract"/>
+        <xs:element ref="cac:BuyerCustomerParty"/>
+        <xs:element ref="cac:SellerSupplierParty"/>
+        <xs:element ref="cac:AccountingCustomerParty"/>
+        <xs:element ref="cac:Delivery"/>
+        <xs:element ref="cac:PaymentTerms"/>
+        <xs:element ref="cac:TaxTotal"/>
+        <xs:element ref="cac:AnticipatedMonetaryTotal"/>
+        <xs:element ref="cac:OrderLine" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="xmlns" type="xs:string" use="required"/>
+      <xs:attribute name="xmlns:ext" type="xs:string" use="required"/>
+      <xs:attribute name="xmlns:cbc" type="xs:string" use="required"/>
+      <xs:attribute name="xmlns:cac" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

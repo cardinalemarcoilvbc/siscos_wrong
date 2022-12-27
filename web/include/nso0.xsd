@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2"
+           xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"
+           xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+           attributeFormDefault="unqualified"
+           elementFormDefault="qualified"
+           targetNamespace="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="schema1.xsd"
+             namespace="urn:oasis:names:specification:ubl:schema:xsd:Order-2" />
+  <xs:element name="StandardBusinessDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="StandardBusinessDocumentHeader">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HeaderVersion"
+                          type="xs:decimal" />
+              <xs:element name="Sender">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Identifier">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="Authority"
+                                          type="xs:string"
+                                          use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Receiver">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Identifier">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="Authority"
+                                          type="xs:string"
+                                          use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="DocumentIdentification">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Standard"
+                                type="xs:string" />
+                    <xs:element name="TypeVersion"
+                                type="xs:decimal" />
+                    <xs:element name="InstanceIdentifier"
+                                type="xs:string" />
+                    <xs:element name="Type"
+                                type="xs:string" />
+                    <xs:element name="CreationDateAndTime"
+                                type="xs:dateTime" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="BusinessScope">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded"
+                                name="Scope">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Type"
+                                      type="xs:string" />
+                          <xs:element name="InstanceIdentifier"
+                                      type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element xmlns:q1="urn:oasis:names:specification:ubl:schema:xsd:Order-2"
+                    ref="q1:Order" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
