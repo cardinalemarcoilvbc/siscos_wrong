@@ -58,9 +58,9 @@ body {
   display: inline-block;
   vertical-align: middle;
   overflow: hidden;
-  width: 900;/*auto; if you want a fixed width, set it here, else set to auto*/
+  width: 800;/*auto; if you want a fixed width, set it here, else set to auto*/
   min-width: 0/*100%*/; /*if you want a % width, set it here, else set to 0*/
-  height: 488px/*100%*/; /*set table height here; can be fixed value or %*/
+  height: 188px/*100%*/; /*set table height here; can be fixed value or %*/
   min-height: 0/*104px*/; /*if using % height, make this large enough to fit scrollbar arrows + caption + thead*/
   font-family: Verdana, Tahoma, sans-serif;
   font-size: 15px;
@@ -182,7 +182,7 @@ border="1" width="311" cellspacing="10" cellpadding="10">
 <td style="width: 301px; height: 116.188;">
 Avvio Conversione&hellip;<br />
 <a href="./index.php">
-<img src="./img/logo.png" alt="logo" width="100%" height="100%" align="center"/>
+<img src="./img/logo.png" alt="logo" width="110%" height="110%" align="center"/>
 </a>
 EOT;
 echo '<div style="width: 500px;">';

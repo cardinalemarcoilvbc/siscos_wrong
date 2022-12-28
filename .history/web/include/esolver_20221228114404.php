@@ -111,7 +111,7 @@ class esolver
         $mod=$mod.PHP_EOL."ZZ".str_pad($i,6,'0',STR_PAD_LEFT);
         $mod=$mod.PHP_EOL;
         $tmpfilename=$di . $ini_array['percorsi']['procfiles'].
-   '2C'.str_replace('-','',str_replace(':','',date("Y-m-d").date("H:i:s"))).'.052';
+   '2C'.str_replace(':','',date("H:i:s")).'.052';
    $wfile= fopen(  $tmpfilename,'w');  
   fwrite($wfile, $mod);
 //fwrite($file, $ndoc .PHP_EOL.'ZZZZ' );

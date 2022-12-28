@@ -182,7 +182,7 @@ border="1" width="311" cellspacing="10" cellpadding="10">
 <td style="width: 301px; height: 116.188;">
 Avvio Conversione&hellip;<br />
 <a href="./index.php">
-<img src="./img/logo.png" alt="logo" width="100%" height="100%" align="center"/>
+<img src="./img/logo.png" alt="logo" width="110%" height="110%" align="center"/>
 </a>
 EOT;
 echo '<div style="width: 500px;">';

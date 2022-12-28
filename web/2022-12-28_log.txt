@@ -1,294 +1,343 @@
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   login effettuato
+2022-12-28 11:45:53:   login effettuato
 
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   login effettuato
+2022-12-28 11:45:53:   login effettuato
 
-2022-12-28 11:07:45:   cambio dir effettuato
+2022-12-28 11:45:53:   cambio dir effettuato
 
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   login effettuato
+2022-12-28 11:45:53:   login effettuato
 
-2022-12-28 11:07:45:   cambio dir effettuato
+2022-12-28 11:45:53:   cambio dir effettuato
 
-2022-12-28 11:07:45:   upload effettuato
+2022-12-28 11:45:53:   upload effettuato
 
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   login effettuato
+2022-12-28 11:45:53:   login effettuato
 
-2022-12-28 11:07:45:   cambio dir effettuato
+2022-12-28 11:45:53:   cambio dir effettuato
 
-2022-12-28 11:07:45:   upload effettuato
+2022-12-28 11:45:53:   upload effettuato
 
-2022-12-28 11:07:45:   dimensione  2C110743.052 è  330 bytes
+2022-12-28 11:45:53:   dimensione  2C20221228114551.052 è  330 bytes
 
-2022-12-28 11:07:45:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110743.052
-2022-12-28 11:07:45:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:53:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114551.052
+2022-12-28 11:45:53:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:45:   login effettuato
+2022-12-28 11:45:53:   login effettuato
 
-2022-12-28 11:07:45:   cambio dir effettuato
+2022-12-28 11:45:53:   cambio dir effettuato
 
-2022-12-28 11:07:45:   upload effettuato
+2022-12-28 11:45:53:   upload effettuato
 
-2022-12-28 11:07:45:   dimensione  2C110743.052 è  330 bytes
+2022-12-28 11:45:53:   dimensione  2C20221228114551.052 è  330 bytes
 
-2022-12-28 11:07:45:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110743.052
+2022-12-28 11:45:53:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114551.052
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   login effettuato
+2022-12-28 11:45:56:   login effettuato
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   login effettuato
+2022-12-28 11:45:56:   login effettuato
 
-2022-12-28 11:07:47:   cambio dir effettuato
+2022-12-28 11:45:56:   cambio dir effettuato
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   login effettuato
+2022-12-28 11:45:56:   login effettuato
 
-2022-12-28 11:07:47:   cambio dir effettuato
+2022-12-28 11:45:56:   cambio dir effettuato
 
-2022-12-28 11:07:47:   upload effettuato
+2022-12-28 11:45:56:   upload effettuato
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   login effettuato
+2022-12-28 11:45:56:   login effettuato
 
-2022-12-28 11:07:47:   cambio dir effettuato
+2022-12-28 11:45:56:   cambio dir effettuato
 
-2022-12-28 11:07:47:   upload effettuato
+2022-12-28 11:45:56:   upload effettuato
 
-2022-12-28 11:07:47:   dimensione  2C110745.052 è  330 bytes
+2022-12-28 11:45:56:   dimensione  2C20221228114554.052 è  330 bytes
 
-2022-12-28 11:07:47:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110745.052
-2022-12-28 11:07:47:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:56:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114554.052
+2022-12-28 11:45:56:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:47:   login effettuato
+2022-12-28 11:45:56:   login effettuato
 
-2022-12-28 11:07:47:   cambio dir effettuato
+2022-12-28 11:45:56:   cambio dir effettuato
 
-2022-12-28 11:07:47:   upload effettuato
+2022-12-28 11:45:56:   upload effettuato
 
-2022-12-28 11:07:47:   dimensione  2C110745.052 è  330 bytes
+2022-12-28 11:45:56:   dimensione  2C20221228114554.052 è  330 bytes
 
-2022-12-28 11:07:47:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110745.052
+2022-12-28 11:45:56:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114554.052
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   login effettuato
+2022-12-28 11:45:58:   login effettuato
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   login effettuato
+2022-12-28 11:45:58:   login effettuato
 
-2022-12-28 11:07:49:   cambio dir effettuato
+2022-12-28 11:45:58:   cambio dir effettuato
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   login effettuato
+2022-12-28 11:45:58:   login effettuato
 
-2022-12-28 11:07:49:   cambio dir effettuato
+2022-12-28 11:45:58:   cambio dir effettuato
 
-2022-12-28 11:07:49:   upload effettuato
+2022-12-28 11:45:58:   upload effettuato
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   login effettuato
+2022-12-28 11:45:58:   login effettuato
 
-2022-12-28 11:07:49:   cambio dir effettuato
+2022-12-28 11:45:58:   cambio dir effettuato
 
-2022-12-28 11:07:49:   upload effettuato
+2022-12-28 11:45:58:   upload effettuato
 
-2022-12-28 11:07:49:   dimensione  2C110747.052 è  330 bytes
+2022-12-28 11:45:58:   dimensione  2C20221228114556.052 è  330 bytes
 
-2022-12-28 11:07:49:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110747.052
-2022-12-28 11:07:49:   mi connetto a :fidels.synology.me
+2022-12-28 11:45:58:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114556.052
+2022-12-28 11:45:58:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:49:   login effettuato
+2022-12-28 11:45:58:   login effettuato
 
-2022-12-28 11:07:49:   cambio dir effettuato
+2022-12-28 11:45:58:   cambio dir effettuato
 
-2022-12-28 11:07:49:   upload effettuato
+2022-12-28 11:45:58:   upload effettuato
 
-2022-12-28 11:07:49:   dimensione  2C110747.052 è  330 bytes
+2022-12-28 11:45:58:   dimensione  2C20221228114556.052 è  330 bytes
 
-2022-12-28 11:07:49:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110747.052
+2022-12-28 11:45:58:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114556.052
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   login effettuato
+2022-12-28 11:46:00:   login effettuato
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   login effettuato
+2022-12-28 11:46:00:   login effettuato
 
-2022-12-28 11:07:52:   cambio dir effettuato
+2022-12-28 11:46:00:   cambio dir effettuato
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   login effettuato
+2022-12-28 11:46:00:   login effettuato
 
-2022-12-28 11:07:52:   cambio dir effettuato
+2022-12-28 11:46:00:   cambio dir effettuato
 
-2022-12-28 11:07:52:   upload effettuato
+2022-12-28 11:46:00:   upload effettuato
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   login effettuato
+2022-12-28 11:46:00:   login effettuato
 
-2022-12-28 11:07:52:   cambio dir effettuato
+2022-12-28 11:46:00:   cambio dir effettuato
 
-2022-12-28 11:07:52:   upload effettuato
+2022-12-28 11:46:00:   upload effettuato
 
-2022-12-28 11:07:52:   dimensione  2C110750.052 è  330 bytes
+2022-12-28 11:46:00:   dimensione  2C20221228114558.052 è  330 bytes
 
-2022-12-28 11:07:52:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110750.052
-2022-12-28 11:07:52:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:00:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114558.052
+2022-12-28 11:46:00:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:52:   login effettuato
+2022-12-28 11:46:00:   login effettuato
 
-2022-12-28 11:07:52:   cambio dir effettuato
+2022-12-28 11:46:00:   cambio dir effettuato
 
-2022-12-28 11:07:52:   upload effettuato
+2022-12-28 11:46:00:   upload effettuato
 
-2022-12-28 11:07:52:   dimensione  2C110750.052 è  330 bytes
+2022-12-28 11:46:00:   dimensione  2C20221228114558.052 è  330 bytes
 
-2022-12-28 11:07:52:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110750.052
+2022-12-28 11:46:00:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114558.052
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   login effettuato
+2022-12-28 11:46:02:   login effettuato
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   login effettuato
+2022-12-28 11:46:02:   login effettuato
 
-2022-12-28 11:07:54:   cambio dir effettuato
+2022-12-28 11:46:02:   cambio dir effettuato
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   login effettuato
+2022-12-28 11:46:02:   login effettuato
 
-2022-12-28 11:07:54:   cambio dir effettuato
+2022-12-28 11:46:02:   cambio dir effettuato
 
-2022-12-28 11:07:54:   upload effettuato
+2022-12-28 11:46:03:   upload effettuato
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   login effettuato
+2022-12-28 11:46:02:   login effettuato
 
-2022-12-28 11:07:54:   cambio dir effettuato
+2022-12-28 11:46:02:   cambio dir effettuato
 
-2022-12-28 11:07:54:   upload effettuato
+2022-12-28 11:46:03:   upload effettuato
 
-2022-12-28 11:07:54:   dimensione  2C110752.052 è  330 bytes
+2022-12-28 11:46:03:   dimensione  2C20221228114600.052 è  330 bytes
 
-2022-12-28 11:07:54:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110752.052
-2022-12-28 11:07:54:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:02:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114600.052
+2022-12-28 11:46:02:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:54:   login effettuato
+2022-12-28 11:46:02:   login effettuato
 
-2022-12-28 11:07:54:   cambio dir effettuato
+2022-12-28 11:46:02:   cambio dir effettuato
 
-2022-12-28 11:07:54:   upload effettuato
+2022-12-28 11:46:03:   upload effettuato
 
-2022-12-28 11:07:54:   dimensione  2C110752.052 è  330 bytes
+2022-12-28 11:46:03:   dimensione  2C20221228114600.052 è  330 bytes
 
-2022-12-28 11:07:54:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110752.052
+2022-12-28 11:46:03:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114600.052
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   login effettuato
+2022-12-28 11:46:05:   login effettuato
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   login effettuato
+2022-12-28 11:46:05:   login effettuato
 
-2022-12-28 11:07:56:   cambio dir effettuato
+2022-12-28 11:46:05:   cambio dir effettuato
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   login effettuato
+2022-12-28 11:46:05:   login effettuato
 
-2022-12-28 11:07:56:   cambio dir effettuato
+2022-12-28 11:46:05:   cambio dir effettuato
 
-2022-12-28 11:07:56:   upload effettuato
+2022-12-28 11:46:05:   upload effettuato
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   login effettuato
+2022-12-28 11:46:05:   login effettuato
 
-2022-12-28 11:07:56:   cambio dir effettuato
+2022-12-28 11:46:05:   cambio dir effettuato
 
-2022-12-28 11:07:56:   upload effettuato
+2022-12-28 11:46:05:   upload effettuato
 
-2022-12-28 11:07:56:   dimensione  2C110754.052 è  330 bytes
+2022-12-28 11:46:05:   dimensione  2C20221228114603.052 è  742 bytes
 
-2022-12-28 11:07:56:   CF__:C:\xampp\htdocs\comfer\web\procfiles/2C110754.052
-2022-12-28 11:07:56:   mi connetto a :fidels.synology.me
+2022-12-28 11:46:05:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114603.052
+2022-12-28 11:46:05:   mi connetto a :fidels.synology.me
 
-2022-12-28 11:07:56:   login effettuato
+2022-12-28 11:46:05:   login effettuato
 
-2022-12-28 11:07:56:   cambio dir effettuato
+2022-12-28 11:46:05:   cambio dir effettuato
 
-2022-12-28 11:07:56:   upload effettuato
+2022-12-28 11:46:05:   upload effettuato
 
-2022-12-28 11:07:56:   dimensione  2C110754.052 è  330 bytes
+2022-12-28 11:46:05:   dimensione  2C20221228114603.052 è  742 bytes
 
-2022-12-28 11:07:56:   CHIUDO CONNESSIONE FTP PER IL FILE 2C110754.052
+2022-12-28 11:46:05:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114603.052
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   login effettuato
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   login effettuato
+
+2022-12-28 11:46:07:   cambio dir effettuato
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   login effettuato
+
+2022-12-28 11:46:07:   cambio dir effettuato
+
+2022-12-28 11:46:07:   upload effettuato
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   login effettuato
+
+2022-12-28 11:46:07:   cambio dir effettuato
+
+2022-12-28 11:46:07:   upload effettuato
+
+2022-12-28 11:46:07:   dimensione  2C20221228114605.052 è  742 bytes
+
+2022-12-28 11:46:07:   INZIO OPERAZIONI PER IL FILE C:\xampp\htdocs\comfer\web\procfiles/2C20221228114605.052
+2022-12-28 11:46:07:   mi connetto a :fidels.synology.me
+
+2022-12-28 11:46:07:   login effettuato
+
+2022-12-28 11:46:07:   cambio dir effettuato
+
+2022-12-28 11:46:07:   upload effettuato
+
+2022-12-28 11:46:07:   dimensione  2C20221228114605.052 è  742 bytes
+
+2022-12-28 11:46:07:   CHIUDO CONNESSIONE FTP PER IL FILE 2C20221228114605.052
 
